@@ -1,0 +1,7 @@
+<?php
+
+    /**
+     * Déclaration des Fonctions 
+     */
+
+?>
